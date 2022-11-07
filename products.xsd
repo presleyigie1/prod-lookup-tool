@@ -1,0 +1,22 @@
+<xsi:schema version="1.0"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema">
+    <xsi:element name="products">
+        <xsi:complexType>
+            <xsi:sequence>
+            <xsi:element name="product" maxOccurs="unbounded" minOccurs="0">
+                <xsi:complexType>
+                <xsi:sequence>
+                    <xsi:element type="xsi:string" name="productName"/>
+                    <xsi:element type="xsi:string" name="category"/>
+                    <xsi:element type="xsi:string" name="description"/>
+                    <xsi:element type="xsi:string" name="code"/>
+                    <xsi:element type="xsi:integer" name="quantity"/>
+                    <xsi:element type="xsi:decimal" name="unitPrice"/>
+                </xsi:sequence>
+                <xsi:attribute type="xsi:string" name="id" use="optional"/>
+                </xsi:complexType>
+            </xsi:element>
+            </xsi:sequence>
+        </xsi:complexType>
+        </xsi:element>
+    </xsi:schema>

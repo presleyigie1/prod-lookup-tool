@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="findproducts.xsl"?>
+
+    <products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+        <product>
+            <productName prodid="1">Nike Air Force 1 '07</productName>
+            <category>Trainers</category>
+            <description>A classic shoe born in 1982, the AF1 has been the number one shoe to keep you fresh, both on and off the court</description>
+            <code>000-81</code>
+            <quantity>219</quantity> 
+            <unitPrice>€119.99</unitPrice> 
+        </product>
+
+        <product>
+            <productName prodid="2">DELL Inspirion 14 5415 14" Laptop - AMD Ryzen 5, 256GB SSD, Silver</productName>
+            <category>Laptops</category>
+            <description>Product features- Windows 11, AMD Ryzen 5 5500U Processor, RAM:8GB / Storage: 256 GB SSD.Fitted with intergrated amd radeon graphichs</description>
+            <code>875-10</code>
+            <quantity>21</quantity>
+            <unitPrice>€719.00</unitPrice>
+        </product>
+
+        <product>
+            <productName prodid="3">Iphone 14 Pro</productName>
+            <category>Smartphones</category>
+            <description>Ceramic shield front, Textured matte glass back and stainless steell design</description>
+            <code>942-49</code>
+            <quantity>643</quantity>
+            <unitPrice>€119.99</unitPrice>
+        </product>
+
+        <product>
+            <productName prodid="4">Airpods Pro (2nd generation)</productName>
+            <category>Electronics</category>
+            <description>Airpods pro with MagSafe Charging Case 2022</description>
+            <code>720-81</code>
+            <quantity>320</quantity>
+            <unitPrice>€299.99</unitPrice>
+        </product>
+
+        <product>
+            <productName prodid="5">Addidas SST Track Top</productName>
+            <category>Clothing</category>
+            <description>One half of the classic track suit, with all of the comfort</description>
+            <code>228-81</code>
+            <quantity>32</quantity>
+            <unitPrice>€70.00</unitPrice>
+        </product>
+
+        <product>
+            <productName prodid="6">Adicolor Classics PrimeBlue SST Tracksuit Bottom</productName>
+            <category>Clothing</category>
+            <description>Equipped with modern stye tapers around the legs, giving them a sporty look</description>
+            <code>228-82</code>
+            <quantity>47</quantity>
+            <unitPrice>€65.00</unitPrice>
+        </product>
+
+        <product>
+            <productName prodid="7">Addidas Ozweego</productName>
+            <category>Trainers</category>
+            <description>Sport material-mix shoes with a futursitc sight</description>
+            <code>338-94</code>
+            <quantity>29</quantity>
+            <unitPrice>€130.00</unitPrice>
+        </product>
+
+        <product>
+            <productName prodid="8">Samsung Galaxy S22 5G</productName>
+            <category>Smartphone</category>
+            <description>Galaxy S22 has a sleek yet sturdy Armour Aluminium frame
+            It's front is equipped with tough Gorilla Glass Victus+&#xD; 
+           </description>
+            <code>961-72</code>
+            <quantity>65</quantity>
+            <unitPrice>€932.99</unitPrice>
+        </product>
+
+        <product>
+            <productName prodid="9">Lenovo Tab P11 Pro</productName>
+            <category>Laptops</category>
+            <description>A great 2 in 1 laptop that is great for students who are notetaking or any student in an art degree.</description>
+            <code>069-09</code>
+            <quantity>17</quantity>
+            <unitPrice>€629.99</unitPrice>
+        </product>
+
+        <product>
+            <productName prodid="10">Native Union Leather Airpods Pro Case with Clip</productName>
+            <category>Accessories</category>
+            <description>Never misplace your airpods again, this case comes equipped with a lanyard that you can put on your bag</description>
+            <code>052-51</code>
+            <quantity>13</quantity>
+            <unitPrice>€39.99</unitPrice>
+        </product>
+
+        <product>
+            <productName prodid="11">Phone case for Iphone14 Pro</productName>
+            <category>Accessories</category>
+            <description>Tired of dropping your phone and it scratching? Well you're in luck, this phone case is extremley durable and can withstand a drop of over 500ft</description>
+            <code>910-35</code>
+            <quantity>19</quantity>
+            <unitPrice>€20.00</unitPrice>
+        </product>
+    </products>
