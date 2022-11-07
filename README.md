@@ -17,5 +17,6 @@ HTML/CSS/JavaScript/XSD/XML/XSLT
 
 #### Desktop view: ![Desktop View](Images/deskview.png)
 
-#### Mobile View: ![Mobile View](Images/mobview.png)
+#### Mobile View:
+![Mobile View](Images/mobview.png)
 
