@@ -4,7 +4,7 @@ Tech used:
 
 HTML/CSS/JavaScript/XSD/XML/XSLT
 	
-> ####	Here are the lists of taks done during this project:
+> ####	Here are the lists of tasks done during this project:
 >	- Used XML to hold the data
 >	- Used XSLT to transform the data and the display it
 >	- Created search bar as a filter search using JS
